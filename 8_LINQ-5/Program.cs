@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -30,7 +30,7 @@ namespace LINQ5
             int year = 2023;
 
             string commandShowExpiredStew = "1";
-            string commandExit = "3";
+            string commandExit = "2";
 
             Console.WriteLine("ПОКАЗАТЬ ПРОСРОЧЕННУЮ ТУШЁНКУ - " + commandShowExpiredStew);
             Console.WriteLine("ВЫХОД - " + commandExit);
